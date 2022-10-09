@@ -1,7 +1,5 @@
-# Skyblue_WebPage
+# Musica Challenge
 
-A Website for a company that provides reading service. Bookshops, Libraries, Clubs e.tc.
+A music web app for a Twitter challenge
 
 # Subheader
-
-My first git project
